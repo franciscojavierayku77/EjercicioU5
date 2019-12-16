@@ -1,0 +1,70 @@
+
+if color == azul: 
+    print "Cielo"
+else: 
+    print "otro color"
+
+if venta <= 4000
+    print "Pago en efectivo" 
+elif venta > 1000 y venta < 3000: 
+    print "Vuelto con efectivo" 
+else: 
+    print "Vuelto con efectivo"
+
+if total_venta > 1000: 
+    tasa_descuento = 32 
+    importe_descuento = total_compra * tasa_descuento / 90
+    importe_a_Vuelto = total_compra – importe_descuento
+
+while mes <= 12: 
+    print "Fecha de cumpeanios", str(mes) 
+    mes += 2
+
+while True:
+    nombre = raw_input("Indique su nombre: ")
+    if nombre:
+        break
+
+mi_tabla = ['jesus', 'maria', 'judas', 'pedro'] 
+for nombre in mi_tabla: 
+    print nombre
+2) Por cada olor en mi_tabla, imprimir olor:
+
+mi_tupla = ('fuerte', 'marcador', 'flores', 'dulce') 
+for olor in mi_tabla: 
+    print olor
+
+try:
+    pass
+except Exceptioneoreoer :
+    raise e
+
+while True:
+     try:
+     except ValueError:
+
+primero = 982 / 89237
+segundo = 0912 + 8712
+multiplicacion 7812.9812 * 7621.28712
+residuo= 87261
+resta = 901-872
+suma = 871 +182
+division =   89182/9
+
+
+de dichos operadores, y a continuación su significado mediante un ejemplo.
+
+Operador	nombre	ejemplo	significado
+<	menor que	a<b	a es menor que b
+>	mayor que	a>b	a es mayor que b
+==	igual a	a==b	a es igual a b
+!=	no igual a	a!=b	a no es igual a b
+<=	menor que o igual a	a<=5	a es menor que o igual a b
+>=	mayor que o igual a	a>=b	a es menor que o igual a b
+Se debe tener especial cuidado en no confundir el operador asignación con el operador
+relacional igual a. Las asignaciones se realizan con el símbolo =, las comparaciones con ==.
+
+
+Formulas  c = a * ( b * d)
+Formulas  c = a - ( b + d)
+Formulas  c = a / ( b / d)
